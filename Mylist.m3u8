@@ -1,105 +1,121 @@
 #EXTM3U
 
-###############
-# باقة الرحمة الرياضية
-###############
-
 #EXTINF:-1 tvg-name="beIN Sports 1" tvg-logo="https://example.com/bein1.png" group-title="باقة الرحمة الرياضية",beIN Sports 1
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport1/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://example.com/bein2.png" group-title="باقة الرحمة الرياضية",beIN Sports 2
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport2/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 3" tvg-logo="https://example.com/bein3.png" group-title="باقة الرحمة الرياضية",beIN Sports 3
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport3/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 4" tvg-logo="https://example.com/bein4.png" group-title="باقة الرحمة الرياضية",beIN Sports 4
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport4/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 5" tvg-logo="https://example.com/bein5.png" group-title="باقة الرحمة الرياضية",beIN Sports 5
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport5/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 6" tvg-logo="https://example.com/bein6.png" group-title="باقة الرحمة الرياضية",beIN Sports 6
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport6/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 7" tvg-logo="https://example.com/bein7.png" group-title="باقة الرحمة الرياضية",beIN Sports 7
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport7/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 8" tvg-logo="https://example.com/bein8.png" group-title="باقة الرحمة الرياضية",beIN Sports 8
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport8/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 9" tvg-logo="https://example.com/bein9.png" group-title="باقة الرحمة الرياضية",beIN Sports 9
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.kooraiq.com:4433/beIN_sport9/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports News" tvg-logo="https://example.com/beinnews.png" group-title="باقة الرحمة الرياضية",beIN Sports News
+#EXTGRP:باقة الرحمة الرياضية
 https://tv.vodu.me:1995/live/beinsport-news/playlist.m3u8
 
-
-###############
-# باقة فودو الرياضية
-###############
-
 #EXTINF:-1 tvg-name="قناة ثمانية 1" tvg-logo="https://example.com/th1.png" group-title="باقة فودو الرياضية",قناة ثمانية 1
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/live/thmanyah-1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="قناة ثمانية 2" tvg-logo="https://example.com/th2.png" group-title="باقة فودو الرياضية",قناة ثمانية 2
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/live/thmanyah-2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="قناة ثمانية 3" tvg-logo="https://example.com/th3.png" group-title="باقة فودو الرياضية",قناة ثمانية 3
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/live/thmanyah-3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="العراقية الرياضية" tvg-logo="https://example.com/iraq.png" group-title="باقة فودو الرياضية",العراقية الرياضية
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/live/iraqia-sport/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الكاس 1" tvg-logo="https://example.com/kass1.png" group-title="باقة فودو الرياضية",الكاس 1
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/kass/kass1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الكاس 2" tvg-logo="https://example.com/kass2.png" group-title="باقة فودو الرياضية",الكاس 2
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/kass/kass2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الكاس 3" tvg-logo="https://example.com/kass3.png" group-title="باقة فودو الرياضية",الكاس 3
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/kass/kass3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="الكاس 4" tvg-logo="https://example.com/kass4.png" group-title="باقة فودو الرياضية",الكاس 4
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/kass/kass4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ستارز بلي 1" tvg-logo="https://example.com/stars1.png" group-title="باقة فودو الرياضية",ستارز بلي 1
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/live/ad-sport1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ستارز بلي 2" tvg-logo="https://example.com/stars2.png" group-title="باقة فودو الرياضية",ستارز بلي 2
+#EXTGRP:باقة فودو الرياضية
 https://tv.vodu.me:1995/live/ad-sport2/playlist.m3u8
 
-
-###############
-# باقة الوان الرياضية
-###############
-
 #EXTINF:-1 tvg-name="الوان الرياضية 1" tvg-logo="https://example.com/alwan1.png" group-title="باقة الوان الرياضية",الوان الرياضية 1
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418111.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 2" tvg-logo="https://example.com/alwan2.png" group-title="باقة الوان الرياضية",الوان الرياضية 2
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418115.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 3" tvg-logo="https://example.com/alwan3.png" group-title="باقة الوان الرياضية",الوان الرياضية 3
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418118.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 4" tvg-logo="https://example.com/alwan4.png" group-title="باقة الوان الرياضية",الوان الرياضية 4
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418121.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 5" tvg-logo="https://example.com/alwan5.png" group-title="باقة الوان الرياضية",الوان الرياضية 5
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418124.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 6" tvg-logo="https://example.com/alwan6.png" group-title="باقة الوان الرياضية",الوان الرياضية 6
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418127.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 7" tvg-logo="https://example.com/alwan7.png" group-title="باقة الوان الرياضية",الوان الرياضية 7
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418139.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 8" tvg-logo="https://example.com/alwan8.png" group-title="باقة الوان الرياضية",الوان الرياضية 8
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418140.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 9" tvg-logo="https://example.com/alwan9.png" group-title="باقة الوان الرياضية",الوان الرياضية 9
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418141.m3u8
 
 #EXTINF:-1 tvg-name="الوان الرياضية 10" tvg-logo="https://example.com/alwan10.png" group-title="باقة الوان الرياضية",الوان الرياضية 10
+#EXTGRP:باقة الوان الرياضية
 http://ksauae.xyz/live/462738737337/352672622626/418142.m3u8
