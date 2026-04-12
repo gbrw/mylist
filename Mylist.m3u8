@@ -1,145 +1,91 @@
 #EXTM3U
-
-###############
-# beIN Sports
-###############
-
 #EXTINF:-1,beIN Sports 1
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport1/index.m3u8
-
 #EXTINF:-1,beIN Sports 2
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport2/index.m3u8
-
 #EXTINF:-1,beIN Sports 3
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport3/index.m3u8
-
 #EXTINF:-1,beIN Sports 4
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport4/index.m3u8
-
 #EXTINF:-1,beIN Sports 5
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport5/index.m3u8
-
 #EXTINF:-1,beIN Sports 6
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport6/index.m3u8
-
 #EXTINF:-1,beIN Sports 7
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport7/index.m3u8
-
 #EXTINF:-1,beIN Sports 8
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport8/index.m3u8
-
 #EXTINF:-1,beIN Sports 9
 #EXTGRP:beIN Sports
 https://tv.kooraiq.com:4433/beIN_sport9/index.m3u8
-
 #EXTINF:-1,beIN Sports News
 #EXTGRP:beIN Sports
 https://tv.vodu.me:1995/live/beinsport-news/playlist.m3u8
-
-
-###############
-# Alkass Sports
-###############
-
-#EXTINF:-1,Alkass 1
-#EXTGRP:Alkass Sports
-https://tv.vodu.me:1995/kass/kass1/playlist.m3u8
-
-#EXTINF:-1,Alkass 2
-#EXTGRP:Alkass Sports
-https://tv.vodu.me:1995/kass/kass2/playlist.m3u8
-
-#EXTINF:-1,Alkass 3
-#EXTGRP:Alkass Sports
-https://tv.vodu.me:1995/kass/kass3/playlist.m3u8
-
-#EXTINF:-1,Alkass 4
-#EXTGRP:Alkass Sports
-https://tv.vodu.me:1995/kass/kass4/playlist.m3u8
-
-
-###############
-# Thmanyah + Iraq
-###############
-
 #EXTINF:-1,Thmanyah 1
-#EXTGRP:Arab Sports
+#EXTGRP:VODO
 https://tv.vodu.me:1995/live/thmanyah-1/playlist.m3u8
-
 #EXTINF:-1,Thmanyah 2
-#EXTGRP:Arab Sports
+#EXTGRP:VODO
 https://tv.vodu.me:1995/live/thmanyah-2/playlist.m3u8
-
 #EXTINF:-1,Thmanyah 3
-#EXTGRP:Arab Sports
+#EXTGRP:VODO
 https://tv.vodu.me:1995/live/thmanyah-3/playlist.m3u8
-
 #EXTINF:-1,Al Iraqia Sports
-#EXTGRP:Arab Sports
+#EXTGRP:VODO
 https://tv.vodu.me:1995/live/iraqia-sport/playlist.m3u8
-
-
-###############
-# Stars Play (AD Sports)
-###############
-
+#EXTINF:-1,Alkass 1
+#EXTGRP:VODO
+https://tv.vodu.me:1995/kass/kass1/playlist.m3u8
+#EXTINF:-1,Alkass 2
+#EXTGRP:VODO
+https://tv.vodu.me:1995/kass/kass2/playlist.m3u8
+#EXTINF:-1,Alkass 3
+#EXTGRP:VODO
+https://tv.vodu.me:1995/kass/kass3/playlist.m3u8
+#EXTINF:-1,Alkass 4
+#EXTGRP:VODO
+https://tv.vodu.me:1995/kass/kass4/playlist.m3u8
 #EXTINF:-1,AD Sports 1
-#EXTGRP:AD Sports
+#EXTGRP:VODO
 https://tv.vodu.me:1995/live/ad-sport1/playlist.m3u8
-
 #EXTINF:-1,AD Sports 2
-#EXTGRP:AD Sports
+#EXTGRP:VODO
 https://tv.vodu.me:1995/live/ad-sport2/playlist.m3u8
-
-
-###############
-# Alwan Sports
-###############
-
 #EXTINF:-1,Alwan Sports 1
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418111.m3u8
-
 #EXTINF:-1,Alwan Sports 2
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418115.m3u8
-
 #EXTINF:-1,Alwan Sports 3
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418118.m3u8
-
 #EXTINF:-1,Alwan Sports 4
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418121.m3u8
-
 #EXTINF:-1,Alwan Sports 5
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418124.m3u8
-
 #EXTINF:-1,Alwan Sports 6
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418127.m3u8
-
 #EXTINF:-1,Alwan Sports 7
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418139.m3u8
-
 #EXTINF:-1,Alwan Sports 8
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418140.m3u8
-
 #EXTINF:-1,Alwan Sports 9
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418141.m3u8
-
 #EXTINF:-1,Alwan Sports 10
 #EXTGRP:Alwan Sports
 http://ksauae.xyz/live/462738737337/352672622626/418142.m3u8
